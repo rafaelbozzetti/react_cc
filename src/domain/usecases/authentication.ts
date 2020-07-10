@@ -1,4 +1,4 @@
-
+import { AccountModel } from '../models/account-model';
 
 type AutheticationParams = {
   email: string;
